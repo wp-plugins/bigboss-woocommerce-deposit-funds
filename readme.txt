@@ -105,17 +105,16 @@ for more please visit http://www.bigbosstheme.com
 
 Ordered list:
 
-1. <a href=”http://bigbosstheme.com”>online coding</a>
+1. <a href="http://bigbosstheme.com">online coding</a>
 
-2. <a href=”http://bigbosstheme.com”>Coders at work</a>
-3. <a href=”http://bigbosstheme.com”>Bigboss theme</a>
+2. <a href="http://bigbosstheme.com">Coders at work</a>
+3. <a href="http://bigbosstheme.com">Bigboss theme</a>
 
 Unordered list:
 
-* <a href=”http://bigbosstheme.com”>bigboss plugin</a>
-* <a href=”http://bigbosstheme.com/contact-us/”>contact me</a>
-* <a href=”http://bigbosstheme.com/video-tutorial//”>Video tutorials</a>
-
+* <a href="http://bigbosstheme.com">bigboss plugin</a>
+* <a href="http://bigbosstheme.com/contact-us/">contact me</a>
+* <a href="http://bigbosstheme.com/video-tutorial/">Video tutorials</a>
 
 Here's a link to [WordPress](http://wordpress.org/ " Bigboss-WooCommerce-deposit-funds ") and one to [Markdown's Syntax Documentation][markdown syntax].
 Titles are optional, naturally.
