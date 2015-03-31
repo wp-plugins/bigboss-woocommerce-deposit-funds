@@ -1,4 +1,4 @@
-=== Bigboss-WooCommerce-deposit-funds ===
+=== Bigboss WooCommerce deposit funds ===
 Contributors:bulbulbigboss
 =======
 Donate link: http://bigbosstheme.com/donate-us/
