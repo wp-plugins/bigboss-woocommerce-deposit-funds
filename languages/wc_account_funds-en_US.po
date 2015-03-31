@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Account Funds v1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-12-17 23:59:05+0000\n"
+"Last-Translator: admin <marivic@appsxtreme.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin_settings.php:7
+#@ wc_account_funds
+msgid "Account Funds Settings"
+msgstr ""
+
+#: admin_settings.php:14
+#@ wc_account_funds
+msgid "Settings updated"
+msgstr ""
+
+#: admin_settings.php:27
+#@ wc_account_funds
+msgid "Apply a discount when Account Funds is used to purchase items"
+msgstr ""
+
+#: admin_settings.php:33
+#@ wc_account_funds
+msgid "Discount Type"
+msgstr ""
+
+#: admin_settings.php:37
+#@ wc_account_funds
+msgid "Fixed Price"
+msgstr ""
+
+#: admin_settings.php:38
+#@ wc_account_funds
+msgid "Percentage"
+msgstr ""
+
+#: admin_settings.php:44
+#@ wc_account_funds
+msgid "Discount Amount"
+msgstr ""
+
+#: admin_settings.php:48
+#@ wc_account_funds
+msgid "Enter the numbers only. Do not include the percentage sign."
+msgstr ""
+
+#: admin_settings.php:56
+#@ wc_account_funds
+msgid "Save Changes"
+msgstr ""
+
+#: class-wcaf-product-admin.php:19
+#@ wc_account_funds
+msgid "Deposit product"
+msgstr ""
+
+#: report-functions.php:53
+#@ wc_account_funds
+msgid "Total Deposits"
+msgstr ""
+
+#: report-functions.php:55
+#: report-functions.php:62
+#: report-functions.php:70
+#: report-functions.php:180
+#: report-functions.php:186
+#: report-functions.php:192
+#: report-functions.php:374
+#: report-functions.php:380
+#: report-functions.php:386
+#@ woocommerce
+msgid "n/a"
+msgstr ""
+
+#: report-functions.php:60
+#@ wc_account_funds
+msgid "Number of Deposits"
+msgstr ""
+
+#: report-functions.php:68
+#@ wc_account_funds
+msgid "Average order deposit"
+msgstr ""
+
+#: report-functions.php:172
+#@ woocommerce
+msgid "From:"
+msgstr ""
+
+#: report-functions.php:172
+#@ woocommerce
+msgid "To:"
+msgstr ""
+
+#: report-functions.php:172
+#: report-functions.php:367
+#@ woocommerce
+msgid "Show"
+msgstr ""
+
+#: report-functions.php:178
+#: report-functions.php:184
+#@ wc_account_funds
+msgid "Total deposits in range"
+msgstr ""
+
+#: report-functions.php:190
+#@ wc_account_funds
+msgid "Average deposit in range"
+msgstr ""
+
+#: report-functions.php:198
+#@ wc_account_funds
+msgid "Deposits in range"
+msgstr ""
+
+#: report-functions.php:362
+#@ woocommerce
+msgid "Year:"
+msgstr ""
+
+#: report-functions.php:372
+#@ wc_account_funds
+msgid "Total deposits for year"
+msgstr ""
+
+#: report-functions.php:378
+#@ wc_account_funds
+msgid "Number of deposits for year"
+msgstr ""
+
+#: report-functions.php:384
+#@ wc_account_funds
+msgid "Average deposit for year"
+msgstr ""
+
+#: report-functions.php:392
+#@ wc_account_funds
+msgid "Monthly deposits for year"
+msgstr ""
+
+#: user-admin.php:9
+#: user-admin.php:31
+#: user-admin.php:34
+#: woocommerce-account-funds.php:124
+#: woocommerce-account-funds.php:336
+#: woocommerce-gateway-account-funds.php:12
+#: woocommerce-gateway-account-funds.php:61
+#@ wc_account_funds
+#@ default
+#@ woocommerce
+msgid "Account Funds"
+msgstr ""
+
+#: user-admin.php:37
+#@ wc_account_funds
+msgid "Funds this user can use to purchase items"
+msgstr ""
+
+#: widget.php:7
+#: widget.php:44
+#@ wc_account_funds
+#@ text_domain
+msgid "My Account Funds"
+msgstr ""
+
+#: widget.php:26
+#, php-format
+#@ wc_account_funds
+msgid "You currently have <b>%s</b> in your account"
+msgstr "Ikaw ay maryoong <b>%s</b> si iyong account"
+
+#: widget.php:27
+#@ wc_account_funds
+msgid "Deposit Funds"
+msgstr "Magdeposito ng Pondo"
+
+#: widget.php:48
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: woocommerce-account-funds.php:312
+#@ wc_account_funds
+msgid "<p class=\"message\">You need to log in before you can add funds to your account</p>"
+msgstr ""
+
+#: woocommerce-account-funds.php:337
+#, php-format
+#@ wc_account_funds
+msgid "You currently have <b>%s</b> in your account."
+msgstr "Ikaw ay maryoong <b>%s</b> si iyong account"
+
+#: woocommerce-account-funds.php:381
+#@ wc_account_funds
+msgid "Recent Deposits"
+msgstr ""
+
+#: woocommerce-account-funds.php:387
+#@ woocommerce
+msgid "Order"
+msgstr ""
+
+#: woocommerce-account-funds.php:388
+#@ woocommerce
+msgid "Date"
+msgstr ""
+
+#: woocommerce-account-funds.php:389
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce-account-funds.php:390
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: woocommerce-account-funds.php:411
+#@ woocommerce
+msgid "Click to cancel this order"
+msgstr ""
+
+#: woocommerce-account-funds.php:411
+#@ woocommerce
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce-account-funds.php:417
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce-account-funds.php:420
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce-account-funds.php:432
+#@ wc_account_funds
+msgid "You have no recent deposits."
+msgstr ""
+
+#: woocommerce-account-funds.php:468
+#@ wc_account_funds
+msgid "Deposits"
+msgstr ""
+
+#: woocommerce-account-funds.php:471
+#@ wc_account_funds
+msgid "Overview"
+msgstr ""
+
+#: woocommerce-account-funds.php:477
+#@ wc_account_funds
+msgid "Deposits by Day"
+msgstr ""
+
+#: woocommerce-account-funds.php:482
+#@ wc_account_funds
+msgid "Deposits by Month"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:23
+#, php-format
+#@ wc_account_funds
+msgid "Available balance: %s"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:26
+#, php-format
+#@ wc_account_funds
+msgid "<br/>Use your account funds and get a %s discount on your order"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:45
+#@ woothemes
+msgid "Enable/Disable"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:47
+#@ woothemes
+msgid "Enable"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:51
+#@ woothemes
+msgid "Title"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:53
+#@ woothemes
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:54
+#@ wc_account_funds
+msgid "Pay using Account Funds"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:79
+#: woocommerce-gateway-account-funds.php:90
+#@ woothemes
+msgid "Payment error:"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:79
+#@ wc_account_funds
+msgid "You must be logged in to use this payment method"
+msgstr ""
+
+#: woocommerce-gateway-account-funds.php:90
+#@ wc_account_funds
+msgid "Insufficient account balance"
+msgstr ""
+
