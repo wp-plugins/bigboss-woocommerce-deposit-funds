@@ -15,9 +15,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Bigboss WooCommerce deposit  Funds is working with woo-commerce and  Allow customers or user to deposit funds into their accounts and they will able to buy using  their deposit  funds . you have to add some deposit product from woo-commerce product section and user can upload their money using this .
 
 
-How To install Bigboss WooCommerce Account Funds  on your wordpress site  here you will get <a href=”http://bigbosstheme.com/video-tutorial//”>Video tutorials</a> to use this plugin
+How To install Bigboss WooCommerce Account Funds  on your wordpress site  here you will get <a href=”http://bigbosstheme.com/video-tutorial/”>Video tutorials</a> to use this plugin
 
-If you face any problem then contact us <a href=”http://bigbosstheme.com”>online coding</a>
+If you face any problem then contact us <a href=”http://bigbosstheme.com/”>online coding</a>
 
 == Installation ==
 
