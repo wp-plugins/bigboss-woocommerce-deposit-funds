@@ -67,6 +67,8 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
+please see the http://bigbosstheme.com/our-new-plugin-on-the-air-bigboss-woocommerce-deposit-funds/ to see full screenshot 
+
 1.
 
 2.
