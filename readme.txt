@@ -71,6 +71,14 @@ Answer to foo bar dilemma.
 
 2.
 
+3.
+
+4.
+
+5.
+
+6.
+
 =======
 == Changelog ==
 
