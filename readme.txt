@@ -60,13 +60,13 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. 
-2.
-3.
-4.
-5.
-6.
-
+1.screenshot-1.jpg
+2.screenshot-2.jpg
+3.screenshot-3.jpg
+4.screenshot-4.jpg
+5.screenshot-5.jpg
+6.screenshot-6.jpg
+=======
 == Changelog ==
 
 = 1.0 =
