@@ -24,11 +24,16 @@ If you face any problem then contact us <a target="_blank" href="http://bigbosst
 
 
 1.Upload Bigboss WooCommerce Account Funds   to the /wp-content/plugins/ directory
+
 2.Activate the plugin through the 'Plugins' menu in WordPress 
+
 3.Go to WooCommerce> Account Funds  area and customizing it as your need 
+
 4. Add new product from woocommerce product section and make product data type deposit 
-You can add more deposit product  like $5,$10,$100 or any 
+
+
 5.Go to widget area and just drug and drop My account funds widget to your sidebar 
+
 =======
 
 
@@ -61,12 +66,12 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1.screenshot-1.jpg
-2.screenshot-2.jpg
-3.screenshot-3.jpg
-4.screenshot-4.jpg
-5.screenshot-5.jpg
-6.screenshot-6.jpg
+1.
+2.
+3.
+4.
+5.
+6.
 =======
 == Changelog ==
 
