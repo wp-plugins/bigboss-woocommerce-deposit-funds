@@ -4,7 +4,7 @@ Contributors:bulbulbigboss
 Donate link: http://bigbosstheme.com/donate-us/
 Tags: woo,woo funds, woocommerce deposit, WooCommerce deposit funds,deposit funds,bigboss,bigboss deposit funds, wordpress deposit funds
 Requires at least: 3.5
-Tested up to: 3.5
+Tested up to:4.2.2
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -17,7 +17,7 @@ Bigboss WooCommerce deposit  Funds is working with woo-commerce and  Allow custo
 
 How To install Bigboss WooCommerce Account Funds  on your wordpress site  here you will get <a target="_blank" href="http://bigbosstheme.com/video-tutorial/">Video tutorials</a> to use this plugin
 
-If you face any problem then contact us <a target="_blank" href="http://bigbosstheme.com/">online coding</a>
+If you face any problem then contact us or see more details about bigboss <a target="_blank" href="http://bigbosstheme.com/woocommerce-deposit-funds/">woocommerce deposit</a>
 
 
 == Installation ==
