@@ -3,7 +3,7 @@
 Plugin Name: Bigboss WooCommerce deposit funds
 Plugin URI: http://wordpress.org/plugins/bigboss-woocomerce-account-funds
 Description:Bigboss WooCommerce Account Funds  Allow customers or user to deposit funds into their accounts and they will able to buy using there depost funds
-Version: 1.0
+Version: 1.2
 Author: Bulbul bigboss
 Author URI: http://www.bigbosstheme.com/about-us
 Requires at least: 3.5
